@@ -1,1 +1,1 @@
-/home/mahavir/BLOCKCHAIN/braidpool_assignment/target/release/braidpool_assignment: /home/mahavir/BLOCKCHAIN/braidpool_assignment/src/main.rs /home/mahavir/BLOCKCHAIN/braidpool_assignment/src/wallet.rs
+/home/mahavir/BLOCKCHAIN/rust-bitcoin-taproot-miner/target/release/braidpool_assignment: /home/mahavir/BLOCKCHAIN/rust-bitcoin-taproot-miner/src/main.rs /home/mahavir/BLOCKCHAIN/rust-bitcoin-taproot-miner/src/wallet.rs
